@@ -1,0 +1,39 @@
+.request
+{
+    margin:10px 0px 2px 0px;
+    padding: 2px;
+    display: flex;
+    justify-content: end;
+}
+.request p{
+    border-radius: 10px 0px 10px 10px;
+    text-align: start;
+    background-color: rgb(235, 235, 235);
+    max-width: 70%;
+    min-width: 30%;
+    width: auto;
+    padding: 15px;
+    margin: 0px;
+    /* min-height: 50px; */
+}
+.response
+{
+    padding: 2px;
+    color: white;
+    display: flex;
+    justify-content: start;
+}
+.response p{
+    border-radius: 0px 10px 10px 10px;
+    text-align: start;
+    max-width: 70%;
+    width: auto;
+    background-color:  #004186;
+    padding: 15px;
+    margin: 0px;
+}
+.datadisplay
+{
+    padding: 5px;
+    
+}
